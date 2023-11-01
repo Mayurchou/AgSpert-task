@@ -32,9 +32,4 @@ To deploy this project run
   py manage.py runserver
 ```
 
-## Contributors :
 
-- Anmol Jawalkar
-- Kajal Kushwaha
-- Mayur Choudhary   
-- Sai Vamshi
